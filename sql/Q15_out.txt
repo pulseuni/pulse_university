@@ -1,0 +1,9 @@
++------------+--------------+-----------------+-----------------+---------------------+
+| visitor_id | visitor_name | visitor_surname | artist_name     | total_artist_rating |
++------------+--------------+-----------------+-----------------+---------------------+
+|          2 | Bob          | Smith           | Sophia Johnson  |                   9 |
+|          2 | Bob          | Smith           | Jack Evans      |                   7 |
+|          2 | Bob          | Smith           | Scott Robertson |                   7 |
+|          1 | Sophia       | Rodriguez       | Noah Walker     |                   6 |
+|          2 | Bob          | Smith           | Mario Carlson   |                   5 |
++------------+--------------+-----------------+-----------------+---------------------+

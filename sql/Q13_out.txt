@@ -1,0 +1,13 @@
++------------------+----------+---------------+------------------------------+
+| name             | nickname | date_of_birth | social_media                 |
++------------------+----------+---------------+------------------------------+
+| Alex Brown       | NULL     | 1980-07-30    | Twitter: @AlexJazz           |
+| Dennis Thompson  | Devin    | 1998-09-04    | Instagram: @douglas10        |
+| Isabella Carter  | Izzy     | 1990-05-11    | Instagram: @IzzyClassicRock  |
+| Jennifer Stewart | Haley    | 1966-08-31    | Twitter: @huntkelly          |
+| Liam Carter      | NULL     | 1997-11-01    | Instagram: @LiamCarterRocks  |
+| Lucas Adams      | NULL     | 1992-01-23    | Instagram: @LucasPopPunk     |
+| Noah Snyder      | NULL     | 1983-09-11    | NULL                         |
+| Samuel Robinson  | NULL     | 1982-12-04    | Instagram: @SamuelPowerMetal |
+| Sophia Johnson   | Sophie   | 1988-05-17    | Facebook: SophieIndie        |
++------------------+----------+---------------+------------------------------+

@@ -1,0 +1,44 @@
++----------------------+------+-------------+------------------------+
+| festival_name        | year | total_price | ticket_way_of_purchase |
++----------------------+------+-------------+------------------------+
+| Aurora Echo Festival | 2025 |        9030 | Box Office             |
+| Aurora Echo Festival | 2025 |        8420 | Online                 |
+| Echoes of Earth      | 2025 |        8295 | Box Office             |
+| Echoes of Earth      | 2025 |        8680 | Online                 |
+| Groove Garden        | 2025 |        9615 | Box Office             |
+| Groove Garden        | 2025 |        7835 | Online                 |
+| Harmony Fields       | 2025 |        8890 | Box Office             |
+| Harmony Fields       | 2025 |        8785 | Online                 |
+| Pulse & Vibe         | 2025 |        7550 | Box Office             |
+| Pulse & Vibe         | 2025 |        9600 | Online                 |
+| Rhythm Valley        | 2025 |        9135 | Box Office             |
+| Rhythm Valley        | 2025 |        8565 | Online                 |
+| Soundwave Summit     | 2025 |        8270 | Box Office             |
+| Soundwave Summit     | 2025 |        8780 | Online                 |
+| Starlight Sessions   | 2025 |        8710 | Box Office             |
+| Starlight Sessions   | 2025 |        8490 | Online                 |
+| Echoes of Earth      | 2026 |        8680 | Box Office             |
+| Echoes of Earth      | 2026 |        8620 | Online                 |
+| Groove Garden        | 2026 |        8175 | Box Office             |
+| Groove Garden        | 2026 |        9000 | Online                 |
+| Harmony Fields       | 2026 |        8775 | Box Office             |
+| Harmony Fields       | 2026 |        9075 | Online                 |
+| Soundwave Summit     | 2026 |        8965 | Box Office             |
+| Soundwave Summit     | 2026 |        9085 | Online                 |
+| Starlight Sessions   | 2026 |        9210 | Box Office             |
+| Starlight Sessions   | 2026 |        8315 | Online                 |
+| Dreamscape Carnival  | 2027 |        9155 | Box Office             |
+| Dreamscape Carnival  | 2027 |        8245 | Online                 |
+| Groove Garden        | 2027 |        8870 | Box Office             |
+| Groove Garden        | 2027 |        8455 | Online                 |
+| Neon Nights Festival | 2027 |        9755 | Box Office             |
+| Neon Nights Festival | 2027 |        7920 | Online                 |
+| Starlight Sessions   | 2027 |        9255 | Box Office             |
+| Starlight Sessions   | 2027 |        8595 | Online                 |
+| Dreamscape Carnival  | 2028 |        8720 | Box Office             |
+| Dreamscape Carnival  | 2028 |        8705 | Online                 |
+| Groove Garden        | 2028 |        8905 | Box Office             |
+| Groove Garden        | 2028 |        8570 | Online                 |
+| Neon Nights Festival | 2028 |        8395 | Box Office             |
+| Neon Nights Festival | 2028 |        9455 | Online                 |
++----------------------+------+-------------+------------------------+

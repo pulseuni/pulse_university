@@ -1,0 +1,17 @@
++------------------+----------+---------------+-------+--------------+------------------------------+----------+
+| name             | nickname | date_of_birth | genre | subgenre     | social_media                 | appeared |
++------------------+----------+---------------+-------+--------------+------------------------------+----------+
+| Charlotte Harris | NULL     | 1998-07-09    | Metal | Death Metal  | Instagram: @CharlotteBlues   | True     |
+| Henry Scott      | Hank     | 1990-08-26    | Metal | Thrash Metal | Facebook: HankRockBlues      | True     |
+| Isabella Carter  | Izzy     | 1990-05-11    | Metal | Thrash Metal | Instagram: @IzzyClassicRock  | False    |
+| James Thompson   | JT       | 1987-11-28    | Metal | Death Metal  | Twitter: @JTMetalhead        | True     |
+| Leo Ramirez      | LRam     | 1987-11-22    | Metal | Thrash Metal | Instagram: @leojazzvibes     | False    |
+| Liam Carter      | NULL     | 1997-11-01    | Metal | Black Metal  | Instagram: @LiamCarterRocks  | False    |
+| Liam Johnson     | LJ       | 1986-01-23    | Metal | Death Metal  | Instagram: @LiamJazz         | False    |
+| Lucas Adams      | NULL     | 1992-01-23    | Metal | Power Metal  | Instagram: @LucasPopPunk     | True     |
+| Megan Davis      | Meg      | 1992-10-02    | Metal | Thrash Metal | NULL                         | True     |
+| Olivia Bennett   | NULL     | 1993-10-06    | Metal | Power Metal  | Instagram: @OliviaPop        | False    |
+| Olivia Scott     | NULL     | 1995-02-12    | Metal | Death Metal  | Twitter: @OliviaFolk         | False    |
+| Sophia Williams  | NULL     | 1991-06-16    | Metal | Black Metal  | Facebook: SophiaPop          | False    |
+| William King     | NULL     | 1984-05-15    | Metal | Death Metal  | Instagram: @WilliamKingMetal | False    |
++------------------+----------+---------------+-------+--------------+------------------------------+----------+

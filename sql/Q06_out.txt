@@ -1,0 +1,11 @@
++------------+--------------+-----------------+-------------------+----------+----------------+
+| visitor_id | visitor_name | visitor_surname | event_name        | event_id | average_rating |
++------------+--------------+-----------------+-------------------+----------+----------------+
+|          2 | Bob          | Smith           | Amazing Rock      |        1 |         2.6000 |
+|          2 | Bob          | Smith           | Metal Storm       |        5 |         2.6000 |
+|          2 | Bob          | Smith           | Electro Funk      |       34 |         4.0000 |
+|          2 | Bob          | Smith           | Orchestral Sunset |       43 |         3.0000 |
+|          2 | Bob          | Smith           | Disco Inferno     |       46 |         1.6000 |
+|          2 | Bob          | Smith           | Trap Zone         |       47 |         2.8000 |
+|          2 | Bob          | Smith           | Dream Pop Night   |       49 |         2.0000 |
++------------+--------------+-----------------+-------------------+----------+----------------+

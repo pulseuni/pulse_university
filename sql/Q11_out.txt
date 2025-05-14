@@ -1,0 +1,89 @@
++----------------------+----------+---------------+-------------------------------+-------------+
+| name                 | nickname | date_of_birth | social_media                  | appearances |
++----------------------+----------+---------------+-------------------------------+-------------+
+| George Turner        | Geo      | 1980-11-17    | Facebook: GeoBlackMetal       |           2 |
+| Lance Higgins MD     | Emily    | 1987-07-17    | Instagram: @ishepard          |           2 |
+| Jessica Hurst        | Heath    | 1966-03-07    | Twitter: @ahoward             |           2 |
+| Michael Taylor       | T-Money  | 1992-03-12    | Facebook: TMoneyOfficial      |           2 |
+| Joseph Henry         | NULL     | 1982-11-20    | Facebook: @hunterdaniel       |           2 |
+| Kristen White        | Megha    | 1988-11-19    | Twitter: @nicholas25          |           2 |
+| David Walsh          | Brend    | 1998-05-15    | NULL                          |           2 |
+| Noah Walker          | Noe      | 1987-07-04    | Facebook: NoeJazz             |           2 |
+| Jack Evans           | NULL     | 1982-04-02    | Instagram: @JackEvansJazz     |           2 |
+| Kimberly Gutierrez   | NULL     | 2003-04-01    | Twitter: @opeterson           |           2 |
+| Sophie Thompson      | NULL     | 1992-07-21    | Instagram: @SophiePop         |           2 |
+| Rachel Green         | NULL     | 1995-06-14    | Instagram: @RachelSoul        |           2 |
+| Ethan Harris         | NULL     | 1994-03-22    | Instagram: @EthanPop          |           2 |
+| James Thompson       | JT       | 1987-11-28    | Twitter: @JTMetalhead         |           2 |
+| Lucas Harris         | Luke     | 1988-02-16    | Twitter: @Lucas_RB            |           2 |
+| Christopher Wilson   | Russe    | 2003-11-11    | NULL                          |           2 |
+| Jesse White          | Chery    | 1980-06-19    | Twitter: @sloanwilliam        |           2 |
+| Emma Green           | Em       | 1990-06-22    | Facebook: EmGreenRNB          |           2 |
+| Charlotte Harris     | NULL     | 1998-07-09    | Instagram: @CharlotteBlues    |           2 |
+| Lisa Moon            | Jason    | 1984-04-18    | Facebook: @kirkgonzalez       |           2 |
+| Daniel Moore         | Danny    | 1988-11-07    | Twitter: @DannyGrunge         |           2 |
+| Christopher Martinez | NULL     | 1977-01-29    | Instagram: @kirktiffany       |           2 |
+| Mario Carlson        | Bryan    | 1978-07-06    | Instagram: @holmesrhonda      |           2 |
+| James Davis          | NULL     | 1985-11-25    | Twitter: @callahanrachel      |           2 |
+| David Anderson       | Davy     | 1980-01-03    | Facebook: DavyMetal           |           2 |
+| Grace Carter         | Gracie   | 1990-04-14    | Instagram: @GracieSoul        |           2 |
+| Joseph Hernandez     | Rhond    | 1981-12-19    | Facebook: @qthompson          |           2 |
+| Ethan Davies         | NULL     | 1974-09-24    | Twitter: @taylordon           |           2 |
+| Carol Hunter         | Aleja    | 1984-10-25    | Instagram: @coreylawrence     |           2 |
+| John Smith           | Madman   | 1985-05-16    | Facebook: The Madman          |           2 |
+| Scott Robertson      | NULL     | 1970-08-21    | Facebook: @zimmermanjessica   |           2 |
+| Megan Davis          | Meg      | 1992-10-02    | NULL                          |           2 |
+| Henry Scott          | Hank     | 1990-08-26    | Facebook: HankRockBlues       |           2 |
+| Zoe Stevens          | Z        | 1990-08-13    | Facebook: ZoeRock             |           1 |
+| Sophia Williams      | NULL     | 1991-06-16    | Facebook: SophiaPop           |           1 |
+| Kendra Morgan        | Calvi    | 1999-04-01    | Instagram: @diazhenry         |           1 |
+| Olivia Turner        | NULL     | 1996-09-05    | Twitter: @OliviaSwing         |           1 |
+| Lucas Lewis          | NULL     | 1983-02-11    | Facebook: LucasPostRock       |           1 |
+| Jackie Lee           | NULL     | 1989-12-03    | Facebook: JackieGrunge        |           1 |
+| Samuel Mitchell      | Sammy    | 1987-06-30    | Instagram: @SammyFolk         |           1 |
+| Olivia Bennett       | NULL     | 1993-10-06    | Instagram: @OliviaPop         |           1 |
+| Lynn Thomas          | NULL     | 2001-08-25    | Instagram: @jacquelineford    |           1 |
+| Corey Johnson        | NULL     | 1966-10-04    | Twitter: @masonkendra         |           1 |
+| William King         | NULL     | 1984-05-15    | Instagram: @WilliamKingMetal  |           1 |
+| Ella Wright          | Ellie    | 1989-07-29    | NULL                          |           1 |
+| Amelia Smith         | NULL     | 1990-05-03    | Instagram: @AmeliaIndie       |           1 |
+| Leo Ramirez          | LRam     | 1987-11-22    | Instagram: @leojazzvibes      |           1 |
+| Nathan Scott         | Nate     | 1990-03-08    | Instagram: @NateThrash        |           1 |
+| Daniel Garcia        | Danny G  | 1979-04-28    | Instagram: @DannyGReggae      |           1 |
+| Rebecca Fleming      | NULL     | 2003-08-20    | Facebook: @patelsarah         |           1 |
+| Isabella Robinson    | NULL     | 1994-03-13    | Twitter: @IsabellaPop         |           1 |
+| William Green        | Will     | 1986-05-22    | NULL                          |           1 |
+| Olivia Scott         | NULL     | 1995-02-12    | Twitter: @OliviaFolk          |           1 |
+| Jennifer Martinez    | NULL     | 1982-01-22    | Facebook: @xpeterson          |           1 |
+| Evelyn Davis         | NULL     | 1996-05-12    | Facebook: EvelynPop           |           1 |
+| Mia Davis            | NULL     | 1992-09-21    | Facebook: MiaDavisOfficial    |           1 |
+| Samuel Carter        | Sammy    | 1991-01-20    | NULL                          |           1 |
+| Maxwell Clark        | Max      | 1985-01-18    | Twitter: @MaxDeltaBlues       |           1 |
+| Jeffrey Lamb         | NULL     | 1999-04-11    | Instagram: @nicholascollier   |           1 |
+| James Smith          | Big Jim  | 1996-02-25    | Twitter: @BigJimRocks         |           1 |
+| James Johnson        | JJ       | 1985-04-18    | Twitter: @JJHardcore          |           1 |
+| Marilyn Brown        | NULL     | 1968-06-19    | NULL                          |           1 |
+| Ava King             | Av       | 1993-09-10    | NULL                          |           1 |
+| Robin Baker          | NULL     | 1968-09-25    | Facebook: @oskinner           |           1 |
+| Timothy Lopez        | Ashle    | 1992-02-07    | NULL                          |           1 |
+| Oliver Green         | Oli      | 1990-05-12    | Facebook: OliGreenMusic       |           0 |
+| Tonya Smith          | James    | 2003-03-14    | Twitter: @nfoley              |           0 |
+| John Davis           | NULL     | 1987-10-28    | Instagram: @JohnJazz          |           0 |
+| Christopher Fields   | Eric     | 1971-11-03    | Twitter: @imartinez           |           0 |
+| Danielle Gilbert     | Jorda    | 1993-03-05    | Twitter: @devonjohnson        |           0 |
+| Laura Hale           | Joshu    | 1995-01-20    | Instagram: @christopher11     |           0 |
+| Kenneth Goodman      | Kelly    | 1984-07-16    | Twitter: @bfields             |           0 |
+| Antonio Nguyen       | Linda    | 1978-11-05    | Twitter: @paulnguyen          |           0 |
+| Emily White          | NULL     | 1987-08-10    | Instagram: @EmWhiteMusic      |           0 |
+| William Ware         | NULL     | 1998-04-28    | Twitter: @rebecca65           |           0 |
+| Liam Johnson         | LJ       | 1986-01-23    | Instagram: @LiamJazz          |           0 |
+| Jaime Stephens       | Chris    | 2003-05-19    | Instagram: @brittany86        |           0 |
+| Dean Wells           | Austi    | 2004-11-07    | Twitter: @kfisher             |           0 |
+| Grace Lewis          | NULL     | 1993-09-30    | Twitter: @GracePop            |           0 |
+| Michael Castro       | NULL     | 1997-06-09    | Twitter: @jameskelly          |           0 |
+| Ava Martin           | Avi      | 1990-06-19    | Twitter: @AvaMartinMusic      |           0 |
+| Chloe Martinez       | NULL     | 1994-03-21    | Instagram: @ChloeMartinez     |           0 |
+| Ella Parker          | Ellie    | 1996-12-11    | Facebook: EllieParkerOfficial |           0 |
+| Tyler Lopez          | Lori     | 1995-11-06    | NULL                          |           0 |
+| Benjamin Walker      | BenW     | 1980-12-24    | Twitter: @BenWMetal           |           0 |
++----------------------+----------+---------------+-------------------------------+-------------+
